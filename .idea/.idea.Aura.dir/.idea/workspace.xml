@@ -7,16 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Animation Blueprints">
+    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Animation Blueprints + Enhanced Input">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ABP_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ABP_Enemy.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Aura/ABP_Aura.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Aura/BP_AuraCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Slingshot/BP_Goblin_Slingshot.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Spear/ABP_Goblin_Spear.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Spear/BP_Goblin_Spear.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +134,7 @@
       <workItem from="1710693713419" duration="2573000" />
       <workItem from="1710714550910" duration="1349000" />
       <workItem from="1710755975511" duration="679000" />
-      <workItem from="1710756685590" duration="2809000" />
+      <workItem from="1710756685590" duration="3787000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -181,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710760941037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Animation Blueprints + Enhanced Input">
+      <option name="closed" value="true" />
+      <created>1710762275709</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710762275709</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +208,7 @@
     <MESSAGE value="Player and Enemy Characters" />
     <MESSAGE value="Character Blueprint Setup" />
     <MESSAGE value="Animation Blueprints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animation Blueprints" />
+    <MESSAGE value="Animation Blueprints + Enhanced Input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animation Blueprints + Enhanced Input" />
   </component>
 </project>
