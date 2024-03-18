@@ -7,7 +7,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Character Blueprint Setup" />
+    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Animation Blueprints">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ABP_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ABP_Enemy.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Aura/ABP_Aura.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Aura/BP_AuraCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Slingshot/BP_Goblin_Slingshot.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Spear/ABP_Goblin_Spear.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Goblin_Spear/BP_Goblin_Spear.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +139,7 @@
       <workItem from="1710693713419" duration="2573000" />
       <workItem from="1710714550910" duration="1349000" />
       <workItem from="1710755975511" duration="679000" />
-      <workItem from="1710756685590" duration="1567000" />
+      <workItem from="1710756685590" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -163,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710758635819</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Animation Blueprints">
+      <option name="closed" value="true" />
+      <created>1710760941037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710760941037</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +204,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Player and Enemy Characters" />
     <MESSAGE value="Character Blueprint Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Character Blueprint Setup" />
+    <MESSAGE value="Animation Blueprints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animation Blueprints" />
   </component>
 </project>
