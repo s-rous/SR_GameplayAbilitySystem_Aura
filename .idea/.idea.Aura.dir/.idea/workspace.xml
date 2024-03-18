@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Animation Blueprints + Enhanced Input">
+    <list default="true" id="3699b9ce-4ee2-4141-a174-5eeaa8d899a7" name="Changes" comment="Aura Player Controller">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerController.h" afterDir="false" />
     </list>
@@ -22,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/Epic Games/Unreal Projects/Aura/Source/Aura/Aura.Build.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://E:/Epic Games/Unreal Projects/Aura/Source/Aura/Private/Character/AuraCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://E:/Epic Games/Unreal Projects/Aura/Source/Aura/Private/Character/AuraCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://E:/Epic Games/Unreal Projects/Aura/Source/Aura/Private/Character/AuraCharacterBase.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -134,7 +134,7 @@
       <workItem from="1710693713419" duration="2573000" />
       <workItem from="1710714550910" duration="1349000" />
       <workItem from="1710755975511" duration="679000" />
-      <workItem from="1710756685590" duration="3787000" />
+      <workItem from="1710756685590" duration="5515000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710762275709</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aura Player Controller">
+      <option name="closed" value="true" />
+      <created>1710763396181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710763396181</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +217,7 @@
     <MESSAGE value="Character Blueprint Setup" />
     <MESSAGE value="Animation Blueprints" />
     <MESSAGE value="Animation Blueprints + Enhanced Input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animation Blueprints + Enhanced Input" />
+    <MESSAGE value="Aura Player Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aura Player Controller" />
   </component>
 </project>
